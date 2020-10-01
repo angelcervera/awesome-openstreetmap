@@ -12,6 +12,8 @@ A curated list of everything OpenStreetMap.
     * [Javascript](#javascript)
     * [Python](#python)
     * [Java](#java)
+    * [Scala](#scala)
+    * [Spark](#spark)
 * [Maps](#maps)
 * [Articles](#articles)
 
@@ -61,6 +63,10 @@ A curated list of everything OpenStreetMap.
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.
 - [GraphHopper](https://github.com/graphhopper/graphhopper) An open source route planning library and server using OpenStreetMap.
+### Scala
+- [Osm4scala Core](https://github.com/simplexspatial/osm4scala) High performance Scala library focus on parsing PBF2 OpenStreetMap files as iterators.
+### Spark
+- [Osm4scala Spark Connector](https://github.com/simplexspatial/osm4scala#spark-connector) Spark Connector that allows to use PBF2 OpenStreetMap files as Spark 3 Datasource.
 
 ## Maps
 - [Terrain Classic](https://github.com/stamen/terrain-classic) World-wide CartoCSS port of Stamen's classic terrain style.
